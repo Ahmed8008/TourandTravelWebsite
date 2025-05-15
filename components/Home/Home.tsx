@@ -4,7 +4,6 @@ import Destination from './Destination/Destination';
 import Hotel from './Hotel/Hotel';
 import WhyChoose from './WhyChoose/WhyChoose';
 import Reviews from './Reviews/Reviews';
-import News from './News/News';
 import Footer from './Footer/Footer';
 
 export const Home = () => {
